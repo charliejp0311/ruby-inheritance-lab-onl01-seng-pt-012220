@@ -13,7 +13,7 @@ class Student < User
   end
 
   def self.all
-    
+
   end
 
 end
