@@ -16,4 +16,8 @@ class Student < User
     @@all
   end
 
+  def learn(information)
+    @knowledge << information    
+  end
+
 end
